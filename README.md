@@ -27,7 +27,6 @@ This project is an interactive Power BI dashboard built using the Spotify Top 50
 
 ## Dashboard Preview
 
-(Add screenshot of your dashboard here)
 
 ## How to Use
 
